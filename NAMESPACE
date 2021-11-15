@@ -2,6 +2,8 @@
 
 import(SummarizedExperiment)
 import(ExperimentHub)
+import(DelayedArray)
+import(HDF5Array)
 import(utils)
 import(methods)
 export(dataResource)
